@@ -1,0 +1,15 @@
+.grid-column{
+  outline : 1px dotted;
+  padding: 1.5em;
+  box-sizing:border-box;
+}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+}
+
+.grid-column{
+  outline: 1px dotted;
+  padding :1.5em;
+} 

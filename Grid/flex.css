@@ -1,0 +1,12 @@
+
+.grid{
+  display:flex;
+    }
+.grid-column{
+  outline : 1px dotted;
+  flex-wrap: no-wrap;
+  width:33%;
+  padding: 1.5em;
+  box-sizing:border-box;
+}
+
